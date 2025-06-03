@@ -3,4 +3,8 @@ layout: post
 title:  "Welcome"
 ---
 
-hello
+Hello guys, I hope you all in happy condition when reading about this.
+
+This is my personal sites for writing blogs, sharing a bit of my knowledge, and portfolio. I also intend to use these blogs for my writing exercise.
+
+Thank you for visiting this site. I hope you can enjoy your stay here.
